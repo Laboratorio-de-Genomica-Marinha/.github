@@ -4,3 +4,5 @@ o LAGEM tem como principal linha de estudo o levantamento da biodiversidade de e
 mudanças na biodiversidade dessas ilhas. 
 
 Este projeto de pesquisa é subsidiado pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) e os objetivos gerais são correlacionados com os objetivos do programa BIOTA-FAPESP.
+
+Página do Laboratório, [acesse](https://laboratorio-de-genomica-marinha.github.io/lagem.github.io/).
