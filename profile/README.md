@@ -1,8 +1,5 @@
 # LAGEM IOUSP 🧬
-O **Laboratório de Genômica Marinha** (LAGEM IOUSP) é um grupo de pesquisa do Instituto Oceanográfico da Universidade de São Paulo. Coordenado pelo Dr. Rodrigo Rodrigues Domingues,
-o LAGEM tem como principal linha de estudo o levantamento da biodiversidade de eucariotos marinhos de ilhas costeiras de São Paulo, utilizando a técnica de Metabarcoding e testando diferentes hipóteses sobre os fatores que causam 
-mudanças na biodiversidade dessas ilhas. 
-
-Este projeto de pesquisa é subsidiado pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) e os objetivos gerais são correlacionados com os objetivos do programa BIOTA-FAPESP.
+O **Laboratório de Genômica Marinha** (LAGEM) é um grupo de pesquisa sediado no Instituto de Biociências da Universidade Estadual Paulista, Campus do Litoral Paulista (UNESP-CLP) e coordenado pelo Prof. Dr. Rodrigo Rodrigues Domingues.
+o LAGEM tem como principal linha de estudo a ecologia molecular de organismos marinhos. Nossas linhas de pesquisas incluem a identificação molecular de espécies, reconstruções filogenéticas, filogeografia, genética da paisagem marinha e o levantamento da biodiversidade por meio do DNA mabiental (eDNA).  
 
 Página do Laboratório, [acesse](https://laboratorio-de-genomica-marinha.github.io/lagem.github.io/).
